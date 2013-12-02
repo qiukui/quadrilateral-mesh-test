@@ -69,7 +69,7 @@ int main()
 					 }
 					 else
 						 if(i<nw+1 && j<nv+1)
-                              fprintf(obj,"%c %d %d %d %d\n",face,vn,vn+nu+1,vn+(nu+1)*(nv+1)+nu+1,vn+(nu+1)*(nv+1));
+                                                         fprintf(obj,"%c %d %d %d %d\n",face,vn,vn+nu+1,vn+(nu+1)*(nv+1)+nu+1,vn+(nu+1)*(nv+1));
 					/*	 else
 							 fprintf(obj,"%c %d %d %d %d\n",face,vn,vn+nu+1,vn+nu+2,vn+1);
 
