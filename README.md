@@ -20,3 +20,6 @@ test generating quadrilateral mesh
 *  xiang1
 *  xiang2
 *  xiang3
+* xiang1
+* xiang2
+* xiang3
